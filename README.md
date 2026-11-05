@@ -4,7 +4,7 @@
 > 作者本人就是 RPA 开发转 Agent 工程，以下每一项都经过实跑或长期关注，不是收藏夹吃灰清单。
 
 [![stars](https://img.shields.io/github/stars/Zhiyilang/awesome-rpa-to-ai-agent?style=social)](https://github.com/Zhiyilang/awesome-rpa-to-ai-agent)
-[![blog](https://img.shields.io/badge/技术博客-已上线-blue)](https://zhiyilang.github.io/blog.html)
+[![blog](https://img.shields.io/badge/技术博客-已上线-blue)](https://github.com/Zhiyilang/blog)
 
 ---
 
@@ -171,9 +171,12 @@ agent.run("执行每日账单汇总任务，发给财务。")
 
 ## 延伸阅读（作者博客）
 
-- [RPA 流程一键变成 MCP Server](https://zhiyilang.github.io/rpa2mcp.html) — 把影刀/UiBot 组件暴露成标准协议
-- [零依赖 UiBot Excel 三件套](https://zhiyilang.github.io/uibot-excel.html) — 不装 Office 也能处理报表
-- [RPA → 测试：mock 与 dry-run](https://zhiyilang.github.io/rpa2test.html) — 给自动化加安全网
+> 博客已迁移到 GitHub 仓库（即时渲染、Google 高权重收录，比 Pages 更稳）：[github.com/Zhiyilang/blog](https://github.com/Zhiyilang/blog)
+
+- [RPA 流程一键变成 MCP Server](https://github.com/Zhiyilang/blog/blob/main/01-rpa2mcp.md) — 把影刀/UiBot 组件暴露成标准协议
+- [零依赖 UiBot Excel 三件套](https://github.com/Zhiyilang/blog/blob/main/02-uibot-excel.md) — 不装 Office 也能处理报表
+- [RPA → 测试：mock 与 dry-run](https://github.com/Zhiyilang/blog/blob/main/03-rpa2test.md) — 给自动化加安全网
+- [零依赖调用大模型](https://github.com/Zhiyilang/blog/blob/main/04-llm-client.md) — 不装 openai 包，纯 urllib 调 LLM
 
 ## 作者
 
