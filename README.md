@@ -185,3 +185,7 @@ agent.run("执行每日账单汇总任务，发给财务。")
 ---
 
 *本清单持续更新。欢迎提 PR 补充你验证过的资源。*
+
+---
+> 💼 **需要定制 / 接单？** 发邮件 **someonelikebaku@163.com**（标题写「接单 + 需求类型」，工作日 24h 内由自动巡检接住回信）。
+> 接单门面（明码标价 + 付款码 + 22 件成品货架）：https://mcd-persona-card.app.workbuddy.host/ ｜ 作品集与开源工具：https://zhiyilang.github.io/
